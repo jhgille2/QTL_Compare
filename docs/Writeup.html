@@ -173,7 +173,7 @@ pre code {
 
 <div id="quick-summary" class="section level2">
 <h2>Quick summary</h2>
-<p>To find past QTL that were in similar loci to those found in this study, I first found the position of the consensus flanking markers from the QTL results table on the consensus map. Using this, I then just found what previously found QTL were within -/+ 5 cm of this consensus interval for each QTL by filtering a table of past QTL that had positions for each past QTL on the consensus map.</p>
+<p>To find past QTL that were in similar loci to those found in this study, I first found the position of the consensus flanking markers from the current QTL results table on the consensus map. Then I found what previous QTL were within -/+ 5 cm of this consensus interval for each QTL by filtering a table of past QTL that had positions for past QTL on the consensus map.</p>
 <p>I made this table of previously found QTL by scraping data from soybase from pages like <a href="https://www.soybase.org/search/index.php?searchterm=%22Seed+Oil%22&amp;list=bi_parental_qtl_listview">this one</a>. I’ll have to go back and clean up the script I used to scrape the data to add it to this workflow, might be nice to have the scraping step added so this workflow can be recycled for other manuscripts later on.</p>
 </div>
 <div id="reproducibility" class="section level2">
@@ -182,10 +182,10 @@ pre code {
 <summary>
 Reproducibility receipt
 </summary>
-<pre><code>## [1] &quot;2021-08-09 20:08:42 EDT&quot;</code></pre>
+<pre><code>## [1] &quot;2021-08-09 20:27:54 EDT&quot;</code></pre>
 <pre><code>## Local:    main C:/Users/Jay/Desktop/Documents/R/QTL_Compare
 ## Remote:   main @ origin (https://github.com/jhgille2/QTL_Compare.git)
-## Head:     [b4f5a94] 2021-08-09: Initial commit</code></pre>
+## Head:     [9d7749f] 2021-08-10: delete old files</code></pre>
 <pre><code>## R version 4.1.0 (2021-05-18)
 ## Platform: x86_64-w64-mingw32/x64 (64-bit)
 ## Running under: Windows 10 x64 (build 19043)

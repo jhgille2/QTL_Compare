@@ -53,5 +53,5 @@ tar_plan(
              format = "file"),
   
   # Render the summary write up
-  tar_render(Writeup, "doc/Writeup.Rmd")
+  tar_render(Writeup, "docs/Writeup.Rmd")
 )

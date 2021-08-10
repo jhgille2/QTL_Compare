@@ -8,7 +8,7 @@ save_merged|function|3fc7df897364e7c0||||||||||||||
 clean_NewData|function|347e8d2c4b38ce23||||||||||||||
 read_all_data|function|34c2d65017a860f9||||||||||||||
 Pop33_34_QTL|stem|2efd0f77c5a6ead3|f0a36db90fd74952|4e3739ef91745af0|-1701188161|C:/Users/Jay/Desktop/Documents/R/QTL_Compare/data/qtl_tables.xlsx|t18848.8914355312s|4ab73748a34e99b1|28766|file|vector|||0||
-Writeup|stem|6bde6c271ce6141e|7ec7a05a581b1eed|4745aa592080ea1d|-2019501384|doc/Writeup.html*doc/Writeup.Rmd|t18849.0060591657s|073505b810f7797a|744494|file|vector|||1.41||
+Writeup|stem|c6e5db30711c9945|bace05258d54e58b|4745aa592080ea1d|-2019501384|docs/Writeup.html*docs/Writeup.Rmd|t18849.0193882959s|6f631bd268b6c82d|744452|file|vector|||1.4||
 Clean_New_QTL|stem|91307a27d474fd6b|72c21cf39cc8c0f9|45d6d3d4a9bb27b5|-324310649||t18848.9852188047s|445842dcf778f83c|978|rds|vector|||0.11||
 LiteratureMerge|stem|e6602ceaa9f96f4d|fba06767a4b6e3d8|d07b16a2feec6542|1075143854||t18848.9908073562s|4c63a8538624b276|8795|rds|vector|||0.28||
 SaveMergedFile|stem|0aca62265824b1da|1551ae4f86e41032|ca45e951421ff0be|2117404901|C:/Users/Jay/Desktop/Documents/R/QTL_Compare/data/LiteratureAdded.csv|t18849.0050159939s|9c2c102577f2a0fb|78041|file|vector|||0.02||

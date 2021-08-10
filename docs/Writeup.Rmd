@@ -25,7 +25,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ## Quick summary
-To find past QTL that were in similar loci to those found in this study, I first found the position of the consensus flanking markers from the QTL results table on the consensus map. Using this, I then just found what previously found QTL were within -/+ 5 cm of this consensus interval for each QTL by filtering a table of past QTL that had positions for each past QTL on the consensus map. 
+To find past QTL that were in similar loci to those found in this study, I first found the position of the consensus flanking markers from the current QTL results table on the consensus map. Then I found what previous QTL were within -/+ 5 cm of this consensus interval for each QTL by filtering a table of past QTL that had positions for past QTL on the consensus map. 
 
 I made this table of previously found QTL by scraping data from soybase from pages like [this one](https://www.soybase.org/search/index.php?searchterm=%22Seed+Oil%22&list=bi_parental_qtl_listview). I'll have to go back and clean up the script I used to scrape the data to add it to this workflow, might be nice to have the scraping step added so this workflow can be recycled for other manuscripts later on. 
 
